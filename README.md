@@ -133,4 +133,4 @@ As you well see in the code, getXsrfToken() is called only after the user clicks
 
 ***Hope you find this helpful.***
 
-***In case of questions, suggestions, typos, etc., you can open an issue, or contact me on baselkh124@gmail.com.***
+***In case of questions, suggestions, typos, etc., you can open an issue, or contact me at QuickSloth8@gmail.com.***
