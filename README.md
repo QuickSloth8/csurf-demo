@@ -40,7 +40,11 @@ config with:
 	  }
 	});
 
-and apply by using the middleware on the chosen routes
+and apply by either using the middleware on all routes
+
+	app.use(csrfProtection);
+
+or, by using the middleware on specific routes
 
 	app.get('/', csrfProtection, function(req,res) {
 	  ...
